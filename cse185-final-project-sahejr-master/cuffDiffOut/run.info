@@ -1,0 +1,5 @@
+param	value
+cmd_line	./cufflinksLib/cuffdiff -p 3 -o cuffDiffOut -L S1,S5 mergedNew.gtf samBam/SRX642051_mapped.sam samBam/SRX642055_mapped.sam 
+version	2.2.1
+SVN_revision	4237
+boost_version	104700
